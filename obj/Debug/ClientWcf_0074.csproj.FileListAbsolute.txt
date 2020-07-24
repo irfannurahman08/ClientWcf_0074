@@ -1,0 +1,9 @@
+D:\latihan\C#\ClientWcf_0074\ClientWcf_0074\bin\Debug\ClientWcf_0074.exe.config
+D:\latihan\C#\ClientWcf_0074\ClientWcf_0074\bin\Debug\ClientWcf_0074.exe
+D:\latihan\C#\ClientWcf_0074\ClientWcf_0074\bin\Debug\ClientWcf_0074.pdb
+D:\latihan\C#\ClientWcf_0074\ClientWcf_0074\obj\Debug\ClientWcf_0074.csprojResolveAssemblyReference.cache
+D:\latihan\C#\ClientWcf_0074\ClientWcf_0074\obj\Debug\ClientWcf_0074.Form1.resources
+D:\latihan\C#\ClientWcf_0074\ClientWcf_0074\obj\Debug\ClientWcf_0074.Properties.Resources.resources
+D:\latihan\C#\ClientWcf_0074\ClientWcf_0074\obj\Debug\ClientWcf_0074.csproj.GenerateResource.Cache
+D:\latihan\C#\ClientWcf_0074\ClientWcf_0074\obj\Debug\ClientWcf_0074.exe
+D:\latihan\C#\ClientWcf_0074\ClientWcf_0074\obj\Debug\ClientWcf_0074.pdb
